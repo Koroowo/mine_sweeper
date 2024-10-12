@@ -1,0 +1,19 @@
+.box{
+    height: 37px;
+    width: 37px;
+    border: 1px solid black;
+    background-color: rgb(57, 94, 227);
+}
+.outer_box{
+    display: flex;
+    margin: auto;
+    justify-content:center ;
+}
+.btn{
+    background-color: slateblue;
+    border: none;
+    border-radius: 8px;
+    height: 75px;
+    width: 125px;
+    color: white;
+}
